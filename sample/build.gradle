@@ -25,6 +25,6 @@ android {
 
 dependencies {
     compile 'com.android.support:appcompat-v7:23.1.1'
-//    compile project(':spriteindicator')
-    compile 'com.github.tinggu:SpriteIndicator:0.2@aar'
+    compile project(':spriteindicator')
+//    compile 'com.github.tinggu:SpriteIndicator:0.2@aar'
 }
