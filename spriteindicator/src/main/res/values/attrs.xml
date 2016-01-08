@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SpriteIndicator">
+        <attr name="si_width" format="dimension"/>
+        <attr name="si_height" format="dimension"/>
+        <attr name="si_margin" format="dimension"/>
+        <attr name="si_animator" format="reference"/>
+        <attr name="si_animator_reverse" format="reference"/>
+        <attr name="si_drawable" format="reference"/>
+        <attr name="si_drawable_unselected" format="reference"/>
+    </declare-styleable>
+</resources>
